@@ -1,0 +1,2 @@
+service_demo
+-DCATKIN_DEVEL_PREFIX=/home/lq/catkin_hh/devel -DCMAKE_INSTALL_PREFIX=/home/lq/catkin_hh/install -G Unix Makefiles

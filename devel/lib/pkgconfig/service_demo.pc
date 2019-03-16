@@ -1,0 +1,8 @@
+prefix=/home/lq/catkin_hh/devel
+
+Name: service_demo
+Description: Description of service_demo
+Version: 0.0.0
+Cflags: -I/home/lq/catkin_hh/devel/include
+Libs: -L/home/lq/catkin_hh/devel/lib 
+Requires: message_runtime
